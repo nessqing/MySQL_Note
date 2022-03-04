@@ -1,0 +1,9 @@
+常用快捷鍵：
+
+1、執行整頁sql腳本：【Ctrl】+【Shift】+【Enter】
+
+2、執行當前行：【Ctrl】+【Enter】
+
+3、註釋/取消註釋：【Ctrl】+【/】
+
+4、自動補全：【Ctrl】+【Space】
